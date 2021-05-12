@@ -3,7 +3,6 @@
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/1/1e/RWTH_Logo_3.svg)
 </p>
 
-##  TEMPolation
 TEMPolation is a program to interpolate temperature and humidity of a file which contains missing values. The program give some statistic about the imported file and also interpolate the missing data with different methods.
 
 ## Table of contents
