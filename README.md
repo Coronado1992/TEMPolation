@@ -1,13 +1,14 @@
-### TEMPolation
-
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+### TEMPolation
+<p align="center">
+![](https://upload.wikimedia.org/wikipedia/commons/1/1e/RWTH_Logo_3.svg)
+</p>
 
 ##  TEMPolation
 TEMPolation is a program to interpolate temperature and humidity of a file which contains missing values. The program give some statistic about the imported file and also interpolate the missing data with different methods.
@@ -56,9 +57,9 @@ Some libraries must be installed in order to use the program.
 
 `pip install py2exe`
   
-  * pip [[Website](https://pypi.org/project/PyQt5/)]
+  * pip [[Website](https://packaging.python.org/tutorials/installing-packages/)]
 
-`pip install py2exe
+`py -m ensurepip --default-pip`
   
   
 ## Methods
@@ -82,9 +83,7 @@ Properties - Contains the most important functions (Button, label, ...)
 
 ## Thanks
 <p align="center">
-  <a href="https://cloudfinder.io">
-     <img src="/img/logos/ibm-cloud-horizontal.png" alt="IBM Logo" width="200" height="70">
-  </a>
+![](https://upload.wikimedia.org/wikipedia/commons/1/1e/RWTH_Logo_3.svg)
 </p>
 
 Thanks to RWTH Aachen University for providing the infrastructure that allows us to do my Master Degree and Master Thesis!
