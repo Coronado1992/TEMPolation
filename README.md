@@ -83,7 +83,7 @@ Some libraries must be installed in order to use the program.
 ## Thanks
 <p align="center">
   <a href="https://TEMPolation.io/">
-    <img src="/img/logo/rwth.png" alt="RWTH Aachen" width="180" height="100">
+    <img src="/img/logo/rwth.png" alt="RWTH Aachen" width="150" height="80">
   </a>
 </p>
 Thanks to RWTH Aachen University for providing the infrastructure that allows us to do my Master Degree and Master Thesis!
