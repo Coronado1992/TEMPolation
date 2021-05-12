@@ -1,7 +1,7 @@
 ### TEMPolation
 <p align="center">
   <a href="https://TEMPolation.io/">
-    <img src="/img/tempolation-logo.png" alt="TEMPolation" width="70" height="70">
+    <img src="/img/logo/tempolation-logo.png" alt="TEMPolation" width="70" height="70">
   </a>
 </p>
 
@@ -9,7 +9,7 @@ TEMPolation is a program to interpolate temperature and humidity of a file which
 
 <p align="center">
   <a href="https://TEMPolation.io/">
-    <img src="/img/tempolation-logo.png" alt="TEMPolation" width="70" height="70">
+    <img src="/img/logo/tempolation-logo.png" alt="TEMPolation" width="70" height="70">
   </a>
 </p>
 
@@ -83,7 +83,7 @@ Some libraries must be installed in order to use the program.
 ## Thanks
 <p align="center">
   <a href="https://TEMPolation.io/">
-    <img src="/img/rwth.png" alt="RWTH Aachen" width="70" height="70">
+    <img src="/img/logo/rwth.png" alt="RWTH Aachen" width="70" height="70">
   </a>
 </p>
 Thanks to RWTH Aachen University for providing the infrastructure that allows us to do my Master Degree and Master Thesis!
