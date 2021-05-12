@@ -1,6 +1,6 @@
 ### TEMPolation
 <p align="center">
-![](https://upload.wikimedia.org/wikipedia/commons/1/1e/RWTH_Logo_3.svg)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/1/1e/RWTH_Logo_3.svg)
 </p>
 
 ##  TEMPolation
