@@ -2,7 +2,12 @@
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 ##  TEMPolation
 TEMPolation is a program to interpolate temperature and humidity of a file which contains missing values. The program give some statistic about the imported file and also interpolate the missing data with different methods.
@@ -20,14 +25,48 @@ TEMPolation is a program to interpolate temperature and humidity of a file which
 ## Quick start
 1. Fork the project;
 2. Clone the repository on your local machine:
-- `git clone https://github.com/plcpinho/CloudFinder.git`
+- `https://github.com/Coronado1992/TEMPolation.git`
 
 Read the Contributing section for a collaboration page quick guide.
 
+## Prerequisites
+Some libraries must be installed in order to use the program.
+
+* PyQt5 [[Website](https://pypi.org/project/PyQt5/)]
+
+`pip install PyQt5`
+ 
+* PyInstaller [[Website](https://pypi.org/project/pyinstaller/)]
+
+`pip install pyinstaller`
+
+  * Matplotlib [[Website](https://pypi.org/project/matplotlib/)]
+
+`pip install matplotlib`
+  
+  * NumPy [[Website](https://pypi.org/project/numpy/)]
+
+`pip install numpy`
+  
+  * pandas [[Website](https://pypi.org/project/pandas/)]
+
+`pip install pandas`
+  
+  * py2exe [[Website](https://pypi.org/project/py2exe/)]
+
+`pip install py2exe`
+  
+  * pip [[Website](https://pypi.org/project/PyQt5/)]
+
+`pip install py2exe
+  
+  
 ## Methods
-Linear Interpolation
-Makima Interpolation
-Pchip Interpolation
+- Linear Interpolation
+
+- Makima Interpolation
+
+- Pchip Interpolation
 
 ## Files
 Main file - The file is the main file where you should run.
