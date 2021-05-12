@@ -1,7 +1,7 @@
 ### TEMPolation
 <p align="center">
   <a href="https://TEMPolation.io/">
-    <img src="/img/logo/tempolation-logo.png" alt="TEMPolation" width="200" height="200">
+    <img src="/img/logo/tempolation-logo.png" alt="TEMPolation" width="250" height="250">
   </a>
 </p>
 
