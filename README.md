@@ -9,7 +9,7 @@ TEMPolation is a program to interpolate temperature and humidity of a file which
 
 <p align="center">
   <a href="https://TEMPolation.io/">
-    <img src="/img/logo/tempolation-logo.png" alt="TEMPolation" width="150" height="150">
+    <img src="/img/logo/03_Menu.jpg" alt="Menu" width="300" height="300">
   </a>
 </p>
 
