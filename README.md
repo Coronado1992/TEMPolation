@@ -61,11 +61,11 @@ Some libraries must be installed in order to use the program.
 - Pchip Interpolation
 
 ## Files
-Main file - The file is the main file where you should run.
+- Main file - The file is the main file where you should run.
 
-Frame - Contains the Ui of the program.
+- Frame - Contains the Ui of the program.
 
-Properties - Contains the most important functions (Button, label, ...)
+- Properties - Contains the most important functions (Button, label, ...)
 
 ## Creators
 **Daniel Coronado**
