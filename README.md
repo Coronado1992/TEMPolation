@@ -7,6 +7,12 @@
 
 TEMPolation is a program to interpolate temperature and humidity of a file which contains missing values. The program give some statistic about the imported file and also interpolate the missing data with different methods.
 
+<p align="center">
+  <a href="https://TEMPolation.io/">
+    <img src="/img/tempolation-logo.png" alt="TEMPolation" width="70" height="70">
+  </a>
+</p>
+
 ## Table of contents
 
 - [Quick start](#quick-start) :seedling:
