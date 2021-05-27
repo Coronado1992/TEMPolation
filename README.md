@@ -18,7 +18,7 @@ TEMPolation is a program to interpolate temperature and humidity of a file which
 - [Quick start](#quick-start) :seedling:
 - [Prerequisites](#Prerequisites) :hammer:
 - [Methods](#Methods) :triangular_ruler:
-- [Video Tutorial](#Video Tutorial) :video_camera:
+- [Video Tutorial](#Video-Tutorial) :video_camera:
 - [Files](#Files) :file_folder:
 - [Creators](#creators) :space_invader:
 - [Thanks](#thanks) :raised_hands:
